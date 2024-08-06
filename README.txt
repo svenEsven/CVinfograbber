@@ -42,7 +42,7 @@ Files Generated:
 ----------------
 1. `cvinfo`: A file created in each subdirectory containing the found URL.
 2. `no_url_dirs.txt`: A file listing directories with no URL found.
-3. `found_urls.html`: An HTML file listing successfully found URLs with hyperlinks.
+3. `found_urls.html`: An HTML file listing successfully found URLs with hyperlinks. This list is separated by which search was used to find the URL, since the year search can be less reliable this allows easier sorting.
 
 Limitations:
 ------------
